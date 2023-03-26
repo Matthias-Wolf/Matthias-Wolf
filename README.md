@@ -1,4 +1,12 @@
 ### Hi there 👋
+I'm a 22-year-old self-learning new skills to enrich my life!
+Besides everything you find here, I'm also studying ***Philosophy*** and ***Phonetics*** at Faculty of Humanities and Social Sciences in Zagreb.
+
+Here's what I'm currently working on:
+:globe_with_meridians: Web development:
+- **The Odin Project**: Foundations Course - *Installations*
+:video_game: Game development:
+- **Unity**: Unity Essentials - *Get started in the Unity Editor*
 
 <!--
 **Matthias-Wolf/Matthias-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
