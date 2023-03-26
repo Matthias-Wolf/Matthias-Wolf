@@ -12,7 +12,11 @@ Here's what I'm currently working on:
 - **Unity**: Unity Essentials - *Get started in the Unity Editor*
 
 :books: **Books:**
-- **Philosophy through Computer Science: An Introduction** by Daniel Lim
+- *Philosophy through Computer Science: An Introduction* by Daniel Lim
+
+:brain: **Language learning:**
+- Japanese
+- French
 <!--
 **Matthias-Wolf/Matthias-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
