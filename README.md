@@ -11,6 +11,8 @@ Here's what I'm currently working on:
 :video_game: **Game development:**
 - **Unity**: Unity Essentials - *Get started in the Unity Editor*
 
+:books: **Books:**
+- **Philosophy through Computer Science: An Introduction** by Daniel Lim
 <!--
 **Matthias-Wolf/Matthias-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
