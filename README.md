@@ -9,7 +9,7 @@ Here's what I'm currently working on:
 - **The Odin Project**: Foundations Course - *Installations*
 
 :video_game: **Game development:**
-- **Unity**: Unity Essentials - *Get started in the Unity Editor*
+- **Unity**: Unity Essentials - *Get started with the Package Manager*
 
 :books: **Books:**
 - *Philosophy through Computer Science: An Introduction* by Daniel Lim
