@@ -6,7 +6,7 @@ Besides everything you find here, I'm also studying ***Philosophy*** and ***Phon
 Here's what I'm currently working on:
 
 :globe_with_meridians: **Web development:**
-- **The Odin Project**: Foundations Course - *Text Editors*
+- **The Odin Project**: Foundations Course - *Command Line Basics*
 
 :video_game: **Game development:**
 - **Unity**: Unity Essentials - Explore Unity: *Essentials of real-time 3D*
