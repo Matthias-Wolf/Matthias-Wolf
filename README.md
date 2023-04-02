@@ -1,7 +1,7 @@
 ### Hello! 👋
 I'm a 21-year-old self-learning new skills to enrich my life!
 
-Besides everything you find here, I'm also studying ***Philosophy*** and ***Phonetics*** at the Faculty of Humanities and Social Sciences in Zagreb.
+I'm double majoring in ***Philosophy*** and ***Phonetics*** at the Faculty of Humanities and Social Sciences in Zagreb.
 
 Here's what I'm currently working on:
 
