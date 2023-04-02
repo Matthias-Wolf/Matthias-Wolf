@@ -1,5 +1,5 @@
 ### Hello! 👋
-I'm a 22-year-old self-learning new skills to enrich my life!
+I'm a 21-year-old self-learning new skills to enrich my life!
 
 Besides everything you find here, I'm also studying ***Philosophy*** and ***Phonetics*** at the Faculty of Humanities and Social Sciences in Zagreb.
 
