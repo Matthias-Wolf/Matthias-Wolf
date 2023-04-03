@@ -6,7 +6,7 @@ I'm double majoring in ***Philosophy*** and ***Phonetics*** at the Faculty of Hu
 Here's what I'm currently working on:
 
 :globe_with_meridians: **Web development:**
-- **The Odin Project**: Foundations Course - *Introduction to Git*
+- **The Odin Project**: Foundations Course - *Git Basics*
 
 :video_game: **Game development:**
 - **[Unity](https://learn.unity.com/u/matthias_wolf/)**: Unity Essentials - Explore Unity: *Essentials of real-time 3D*
