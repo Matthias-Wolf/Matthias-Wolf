@@ -9,7 +9,7 @@ Here's what I'm currently working on:
 - **The Odin Project**: Foundations Course - *Introduction to Git*
 
 :video_game: **Game development:**
-- **Unity**: Unity Essentials - Explore Unity: *Essentials of real-time 3D*
+- **[Unity](https://learn.unity.com/u/matthias_wolf/)**: Unity Essentials - Explore Unity: *Essentials of real-time 3D*
 
 :books: **Books:**
 - *Philosophy through Computer Science: An Introduction* by Daniel Lim
@@ -17,17 +17,3 @@ Here's what I'm currently working on:
 :brain: **Language learning:**
 - Japanese
 - French
-<!--
-**Matthias-Wolf/Matthias-Wolf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
