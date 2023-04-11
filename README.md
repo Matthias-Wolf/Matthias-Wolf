@@ -10,7 +10,8 @@ Here's what I'm currently working on:
 - [x] **The Odin Project**: Foundations Course (42% Complete) - *Project: Recipes* -> Project: ["RecipeHub"](https://matthias-wolf.github.io/odin-recipes/) (9 April 2023)
 
 :video_game: **Game development ([Unity](https://learn.unity.com/u/matthias_wolf/)**):
-- [ ] **Unity Essentials** - Explore Unity: *Essentials of real-time audio*
+- [ ] **Unity Essentials** - Explore Unity: *Essentials of real-time 2D*
+- [x] **Unity Essentials** - Explore Unity: *Essentials of real-time audio* (11 April 2023)
 - [x] **Unity Essentials** - Explore Unity: *Essentials of programming in Unity* (5 April 2023)
 - [x] **Unity Essentials** - Explore Unity: *Essentials of real-time 3D* -> Project: ["A Graceful Roll Into Lava"](https://play.unity.com/mg/other/a-graceful-roll-into-lava) (3 April 2023)
 
